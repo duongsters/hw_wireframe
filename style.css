@@ -7,10 +7,18 @@ body{
 
 header{
     background: #ebebeb;
+    text-align: center;
+    top: 10px;
+    line-height: 100px;
+    margin: 1;
 }
 
 nav{
     background: #ebebeb;
+    text-align: center;
+    top: 10px;
+    line-height: 100px;
+    margin: 1;
 }
 
 
@@ -22,6 +30,8 @@ section{
 
 .division{
     display: flex;
+    background: #777;
+
 }
 
 article{
@@ -31,7 +41,7 @@ article{
 
 }
 
-h1{
+h2{
     color: #777;
     background: #ebebeb;
 }
@@ -46,11 +56,14 @@ p{
 aside{
     background: #ebebeb;
     width: 495px;
-    height: 320px;
+    height: 300px;
 }
 
 
 footer{
     background: #ebebeb;
-
+    text-align: center;
+    top: 10px;
+    line-height: 100px;
+    margin: 1;
 }
